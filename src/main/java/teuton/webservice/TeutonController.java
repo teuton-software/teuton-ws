@@ -12,6 +12,5 @@ public class TeutonController {
     public Version version() {
         return new Version();
     }
-    
 
 }
