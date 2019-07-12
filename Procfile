@@ -1,1 +1,1 @@
-web: mvn spring-boot:run
+web: java -jar target/teuton-web-service-0.0.1.jar
