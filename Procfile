@@ -1,1 +1,1 @@
-web: java -jar target/teuton-web-service-0.0.1.jar
+web: java -Dserver.port=$PORT -jar target/teuton-web-service-0.0.1.jar
